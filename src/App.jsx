@@ -5,6 +5,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Skill from "./components/Skill";
 import Work from "./components/Work";
+import Certif from "./components/Certif";
 
 const App = () => {
 
@@ -16,6 +17,7 @@ const App = () => {
       <About />
       <Skill />
       <Work />
+      <Certif />
     </main>
     </>
   )
