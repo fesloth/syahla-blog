@@ -4,35 +4,24 @@ import CertifCard from "./CertifCard";
 
 const certif = [
   {
-    imgSrc: "/images/project-1.jpg",
-    title: "Full stack music app",
-    tags: ["API", "MVC", "Development"],
+    imgSrc: "/img/1.jpg",
+    title: "Command Line",
+    tags: ["CLI", "CMD"],
   },
   {
-    imgSrc: "/images/project-2.jpg",
-    title: "Free stock photo app",
-    tags: ["API", "SPA"],
+    imgSrc: "/img/2.jpg",
+    title: "GIT",
+    tags: ["GIT"],
   },
   {
-    imgSrc: "/images/project-3.jpg",
-    title: "Recipe app",
-    tags: ["Development", "API"],
+    imgSrc: "/img/3.jpg",
+    title: "Javascript",
+    tags: ["Javascript", "Javascrip Basic"],
   },
   {
-    imgSrc: "/images/project-4.jpg",
-    title: "Real state website",
-    tags: ["Web-design", "Development"],
-  },
-  {
-    imgSrc: "/images/project-5.jpg",
-    title: "eCommerce website",
-    tags: ["eCommerce", "Development"],
-  },
-  {
-    imgSrc: "/images/project-6.jpg",
-    title: "vCard Personal portfolio",
-    tags: ["Web-design", "Development"],
-
+    imgSrc: "/img/4.jpg",
+    title: "MongoDB",
+    tags: ["MongoDB", "NoSQL"],
   },
 ];
 

@@ -54,9 +54,9 @@ const Contact = () => {
     <section id="contact" className="section">
       <div className="container lg:grid lg:grid-cols-2 lg:items-stretch">
         <div className="mb-12 lg:mb-0 lg:flex lg:flex-col">
-          <h2 className="headline-2 lg:max-w-[12ch]">Mari Berkoneksi!</h2>
+          <h2 className="headline-2 lg:max-w-[12ch]"> Connet With Me! </h2>
         
-        <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[30ch]">Jika Anda merasa tertarik dengan layanan yang saya tawarkan, jangan ragu untuk menghubungi saya. Saya akan senang mendiskusikan segala hal yang berkaitan dengan proyek atau kebutuhan Anda. Terima kasih telah menghubungi saya.</p>
+        <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lg:max-w-[30ch]">If you are interested in the services I offer, please do not hesitate to contact me. I would be happy to discuss anything related to your project or needs. Thank you for contacting me.</p>
         <div className="flex items-center gap-2 mt-auto">
             {socialLinks.map(({ href, icon }, key) => 
             (
@@ -104,7 +104,7 @@ const Contact = () => {
                         Message
 
                     </label>
-                    <textarea name="message" id="message" placeholder="Hi!" required className="text-field resize-y min-h-3 max-h-80"></textarea>
+                    <textarea name="message" id="message" placeholder="Hi!" required className="text-field resize-y min-h-36 max-h-80"></textarea>
                 </div>
             </div>
 
