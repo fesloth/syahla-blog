@@ -28,7 +28,7 @@ const About = () => {
               </div>
             ))}
 
-            <img src="/img/favicon.svg" alt="logo" width={30} height={30} className="ml-auto md:w-[40px] md:h-[40px]" />
+            <img src="/img/logo.svg" alt="logo" width={30} height={30} className="ml-auto md:w-[40px] md:h-[40px]" />
           </div>
         </div>
       </div>
