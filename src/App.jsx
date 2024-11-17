@@ -6,6 +6,7 @@ import About from "./components/About";
 import Skill from "./components/Skill";
 import Work from "./components/Work";
 import Certif from "./components/Certif";
+import Contact from "./components/Contact";
 
 const App = () => {
 
@@ -18,6 +19,7 @@ const App = () => {
       <Skill />
       <Work />
       <Certif />
+      <Contact />
     </main>
     </>
   )
