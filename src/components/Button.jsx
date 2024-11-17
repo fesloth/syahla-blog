@@ -16,7 +16,7 @@ const ButtonPrimary = ({
             <a 
             href={href}
             target={target}
-            className={"btn btn-primary" + classes}
+            className={"btn btn-primary " + classes}
             >
                 {label}
 
@@ -66,7 +66,7 @@ const ButtonOutline = ({
             <a 
             href={href}
             target={target}
-            className={"btn btn-outline" + classes}
+            className={"btn btn-outline " + classes}
             >
                 {label}
 

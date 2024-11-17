@@ -50,6 +50,10 @@ body {
   @apply w-full h-full object-cover;
 }
 
+.section {
+  @apply pt-20 lg:pt-32 
+}
+
 /* ---------------------- *\
 * COMPONENTS
 \* ---------------------- */
@@ -90,17 +94,17 @@ body {
 }
 
 .btn .material-symbols-rounded {
-  @apply text-[18px]
+  @apply text-[18px];
 }
 
-.btn:has( .material-symbols-rounded) {
-  @apply pr-3
+.btn:has(.material-symbols-rounded) {
+  @apply pr-3;
 }
 
 .btn-primary {
-  @apply h-11 bg-sky-400 text-zinc-950 hover:bg-sky-300 active:bg-sky-400
+  @apply h-11 bg-sky-400 text-zinc-950 hover:bg-sky-300 active:bg-sky-400;
 }
 
 .btn-outline {
-  @apply h-11 bg-zinc-800 hover:bg-zinc-700 active:bg-zinc-800
+  @apply h-11 bg-zinc-800 hover:bg-zinc-700 active:bg-zinc-800;
 }
