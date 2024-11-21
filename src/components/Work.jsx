@@ -4,40 +4,40 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
     {
-      imgSrc: '/images/project-1.jpg',
-      title: 'Full stack music app',
-      tags: ['API', 'MVC', 'Development'],
-      projectLink: 'https://musify-5al0.onrender.com/'
+      imgSrc: 'img/projek1.png',
+      title: 'Calculator',
+      tags: ['Javascript', 'Development', 'Math'],
+      projectLink: 'https://fesloth.github.io/calculator-with-js'
     },
     {
-      imgSrc: '/images/project-2.jpg',
-      title: 'Free stock photo app',
-      tags: ['API', 'SPA'],
-      projectLink: 'https://pixstock-official.vercel.app/'
+      imgSrc: 'img/projek2.png',
+      title: 'SkendAnimation Website',
+      tags: ['Blog', 'Social Media'],
+      projectLink: 'https://github.com/fesloth/skendanimation-revision'
     },
     {
-      imgSrc: '/images/project-3.jpg',
-      title: 'Recipe app',
-      tags: ['Development', 'API'],
-      projectLink: ''
+      imgSrc: 'img/projek3.png',
+      title: 'Minigames',
+      tags: ['Games', 'Javascript', 'Tic-tac-toe'],
+      projectLink: 'https://syahlaminigames.vercel.app'
     },
     {
-      imgSrc: '/images/project-4.jpg',
-      title: 'Real state website',
-      tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      imgSrc: 'img/projek4.png',
+      title: 'Countdown Days Since',
+      tags: ['Countdown', 'Javasript'],
+      projectLink: 'https://fesloth-countdown.vercel.app/'
     },
     {
-      imgSrc: '/images/project-5.jpg',
+      imgSrc: 'img/projek5.png',
       title: 'eCommerce website',
-      tags: ['eCommerce', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+      tags: ['Meditation', 'Laravel', 'MySQL', 'Database'],
+      projectLink: 'https://github.com/fesloth/MeditAja'
     },
     {
-      imgSrc: '/images/project-6.jpg',
+      imgSrc: 'img/projek6.png',
       title: 'vCard Personal portfolio',
-      tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+      tags: ['Todolist', 'Simply'],
+      projectLink: 'https://feslothtodo.vercel.app/'
     },
   ];
 
