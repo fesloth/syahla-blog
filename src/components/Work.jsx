@@ -29,13 +29,13 @@ const works = [
     },
     {
       imgSrc: 'img/projek5.png',
-      title: 'eCommerce website',
+      title: 'MeditAja Website',
       tags: ['Meditation', 'Laravel', 'MySQL', 'Database'],
       projectLink: 'https://github.com/fesloth/MeditAja'
     },
     {
       imgSrc: 'img/projek6.png',
-      title: 'vCard Personal portfolio',
+      title: 'Todolist',
       tags: ['Todolist', 'Simply'],
       projectLink: 'https://feslothtodo.vercel.app/'
     },
