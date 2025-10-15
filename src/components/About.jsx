@@ -5,7 +5,7 @@ const aboutItems = [
   },
   {
     label: "Years of experience",
-    number: 3,
+    number: 5,
   },
 ];
 
@@ -15,7 +15,8 @@ const About = () => {
       <div className="container">
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
           <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-          Hi👋, My name is Syahla Nur Azizah, I am a student at SMK Negeri 2 Banjarmasin. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications, i really like learning new things especially in technology. Currently interested in <span className="text-purple-500">Backend Developer and Android Developer.</span>
+            Hi👋, My name is Syahla Nur Azizah, I am a student at Politeknik Negeri Banjarmasin. I have a strong interest in server-side development and enjoy working on the logical aspects of building robust and efficient applications. I really like learning new things, especially in technology.
+            Currently, I’m interested in <span className="text-purple-500">Backend Development and Android Development.</span>
           </p>
           <div className="flex flex-wrap items-center gap-4 md:gap-7">
             {aboutItems.map(({ label, number }, key) => (

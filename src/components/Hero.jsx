@@ -17,7 +17,7 @@ const Hero = () => {
             </div>
           </div>
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-5">Halo! I&apos;m Syahla Nur Azizah</h2>
-          <h2 className="text-xl sm:text-2xl font-medium text-purple-500 tracking-wide mb-8">Student of State Vocational School 2 Banjarmasin, Software Engineering Department.</h2>
+          <h2 className="text-xl sm:text-2xl font-medium text-purple-500 tracking-wide mb-8">Student of Polytechnic State of Banjarmasin, Software Engineering Department.</h2>
           <div className="flex items-center gap-3">
             <ButtonPrimary label="Download CV" icon="download" href="/cv.pdf" />
             <ButtonOutline href="#about" label="Scroll down" icon="arrow_downward" />
